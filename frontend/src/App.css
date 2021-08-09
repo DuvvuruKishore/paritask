@@ -1,0 +1,29 @@
+* {
+  margin: 0%;
+}
+.adjust{
+  display: flex;
+  margin-bottom: 20px;
+}
+.adjust>h3{
+  width: 150px;
+}
+
+.accordian{
+  width: 300px;
+}
+.app_full{
+  display: flex;
+  justify-content: space-around;
+}
+
+.app{
+  margin-top: 36px;
+}
+.details{
+  float: right;
+}
+
+.register{
+margin-top: 20px;
+}
